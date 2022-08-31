@@ -1,7 +1,5 @@
 import mongoose from "mongoose";
 
-// eur - base currency
-// 
 
 
 const currencySchema = mongoose.Schema({
